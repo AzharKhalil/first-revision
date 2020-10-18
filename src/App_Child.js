@@ -1,14 +1,14 @@
 import React from 'react';
 
-function Appi()
+function Child_App(props)
 {
     return(
         <div>
             <h1>
-                Hello Frieds Chai pee lo
+                Hello Frieds {props.name} pee lo
             </h1>
         </div>
     )
 }
 
-export default Appi
+export default Child_App

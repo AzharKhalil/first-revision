@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Appi from './App_Child'
+import Child_App from './App_Child'
 
 function App() {
   return (
     <div className="App">
-      <Appi/>
+      <Child_App name="Pani"/>
     </div>
   );
 }
