@@ -5,7 +5,7 @@ import Child_App from './App_Child'
 function App() {
   return (
     <div className="App">
-      <Child_App name="Pani"/>
+      <Child_App name="Pani" />
     </div>
   );
 }
