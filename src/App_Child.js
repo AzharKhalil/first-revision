@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App_Child()
+function Appi()
 {
     return(
         <div>
@@ -11,4 +11,4 @@ function App_Child()
     )
 }
 
-export default App_Child
+export default Appi
