@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Child_App(props)
+function CHILD_APP(props)
 {
     return(
         <div>
@@ -11,4 +11,4 @@ function Child_App(props)
     )
 }
 
-export default Child_App
+export default CHILD_APP
