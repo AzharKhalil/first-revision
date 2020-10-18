@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import App_Child from 'App_Child'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World by AK</h1>
+      <App_Child/>
     </div>
   );
 }
